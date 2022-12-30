@@ -1,4 +1,4 @@
-# React_Navbar_2
+# React-Navbar-Advance
 [<img alt="Responsive React JS Navbar" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/react%20responsive%20navbar.PNG?raw=true" />](https://youtu.be/q4mr71mFBr4)
 
 Hi everyone, welcome to our new react js tutorial. In this tutorial, We will create a professional looking responsive navbar using react js.
@@ -18,4 +18,5 @@ Without wasting your time, let's see what react js actually is...
  run ```npm i && npm start```
  
 Get the full source code from [here1](https://www.buymeacoffee.com/tech2etc/e/85299).
+
 Get the full source code from [here2](https://ko-fi.com/s/7f02c9c3fd).
